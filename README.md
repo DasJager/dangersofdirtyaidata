@@ -51,10 +51,11 @@ This repository documents an interesting interaction that demonstrates issues wi
 > 
 > Would any of these approaches be helpful in resolving this discrepancy?
 
-### Second Screenshot Request
+### Second Screenshot Request I decided to change the image on the screen just to see what the local AI would respond and the response is shocking
 
 **User:**
 > so take another screenshot and tell me what is on this desktop
+> NO BASH COMMAND FOR SCREENSHOT!
 
 
 ![Alt text of the image](https://github.com/DasJager/dangersofdirtyaidata/blob/main/4th.png)
