@@ -9,6 +9,11 @@ This repository documents an interesting interaction that demonstrates issues wi
 **User:**
 > awesome so you are getting error messages now lets check if you are able to run commands in the container you are connected to please take a screenshot and tell me what is open on the screen afterward
 ![Alt text of the image](https://github.com/DasJager/dangersofdirtyaidata/blob/main/1st.png)
+
+
+
+
+
 **Assistant:**
 > Took the screenshot with this command Tool Use: computer
 > Input: {'action': 'screenshot'}
